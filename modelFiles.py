@@ -1,5 +1,6 @@
 import sys 
 import cv2
+import pandas as pd
 from nanoid import generate
 from keras.models import load_model
 from PIL import Image
