@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 from skimage.color import rgb2ypbpr,rgbcie2rgb,rgb2lab,rgb2hed
 from skimage.filters import meijering
 import numpy as np
-import tensorflowjs as tfjs
 import joblib
 from keras import Model
 from sklearn.metrics import accuracy_score
