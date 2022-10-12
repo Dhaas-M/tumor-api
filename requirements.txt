@@ -31,7 +31,7 @@ plotly==5.7.0
 pyqt5-plugins==5.15.4.2.2
 pyqt5-tools==5.15.4.3.2
 pytz==2022.1
-pywin32==304
+pywin32
 pywinpty==2.0.6
 qt5-tools==5.15.2.1.2
 qtconsole==5.3.1
